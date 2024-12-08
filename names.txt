@@ -3,5 +3,5 @@ ECHO is on.
 Mohamed Bilal
 Lets start with Git.
 
-Git is an open source.
+Git is an open source system.
 Enables the developers to cololborate and work in the projects.
